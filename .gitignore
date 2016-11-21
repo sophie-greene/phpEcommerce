@@ -1,3 +1,4 @@
+*.psd
 *.gif
 *.png
 *.bmp
@@ -8,7 +9,7 @@
 *.cvs
 *.db
 *.mat
-*.
+.*
 *~
 .gitignore~
 .ipynb_checkpoints
